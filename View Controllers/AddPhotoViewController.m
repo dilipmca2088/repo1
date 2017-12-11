@@ -4,7 +4,7 @@
 //
 //  Created by Charu Khosla on 28/09/2015.
 //  Copyright © 2015 FirstCut. All rights reserved.
-//
+//                      
 
 #import "AddPhotoViewController.h"
 #import "AppDelegate.h"
